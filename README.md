@@ -1,7 +1,7 @@
 # hci17
 Repo for HCI 2017@NCSU
 
-##IDEAS
+## IDEAS
 - modular application - piping - standard api from source - then process data
 - making command line better
 - context based maps wikipedia
@@ -11,8 +11,15 @@ Repo for HCI 2017@NCSU
 - ordinary app in a unique platform
 - bringing different kinds of information together
 - copy pasta social network
+- crowdsourcing repo of dangerous places, crime statistics
+- crowdsourcing store visits
+- password authentication methods
 
-##Assignment 5: Project ideas
+## RESOURCES
+- http://ieeexplore.ieee.org/abstract/document/4351367/?reload=true
+- https://www.programmableweb.com/
+
+## Assignment 5: Project ideas
 
 For this assignment you will need to turn in a single text file: <your unity ID>-assignment-5, with the file extension .txt.
 
