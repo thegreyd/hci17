@@ -1,0 +1,48 @@
+﻿Assignment 5: HCI 
+
+# Team Members
+- Siddharth Sharma (ssharm24), 
+- Karan Jadhav (kjadhav), 
+- Bhushan Thakur (bvthakur)
+
+# Project Title
+- Command Line Made Easy: A browser based GUI for visualizing and interacting with the Command Line.
+
+# Description (include domain, target audience, solution)
+
+- Problem: In computers, GUIs are used almost everywhere for their various usability advantages. But in many domains like software development, system administration, CLI is still the preferred way to perform complex tasks. Many features from the CLI aren't available in the GUI. This tends to isolate new users from using these features.
+
+Also, it is easy to forget or mistype a command, with no helpful feedback. Another limitation is that CLI is not very readable. Commands are generally not representative of the purpose they serve or the feature they provide. Only an expert can understand them. This extends to the various flags that are part of these commands.
+
+- Target Users: The user group of our application will be people not familiar or comfortable with CLI, but who wish to use the broad range of commands available from it. Another target user group can be students who need to be taught about the usage and the concepts behind Linux commands but in a simpler, more interactive way.
+
+- Solution: We propose to embed the commands in a new visual environment. There will be limited ways to manually enter information, and menus will serve as a replacement, which will minimize errors. Features such as command search and autocomplete can help in recognition rather than recall. We will also be exploring letting users create combinations of commands using pipes, and letting them reuse the functionality.
+
+We'll be exploring direct manipulation GUI interface in the browser. The commands will be presented as drag and drop objects - in a searchable interface. There will be task pipeline, where commands can be joined using (Unix)Pipes. The user will be able to save these pipelines similar to a macro, and can potentially use it to create a more complex pipeline. The output will be presented in the browser window itself, with the shell execution running in the backend.
+
+# Literature:
+- Direct Manipulation lowering the barriers to Computer Programming
+https://dl.acm.org/citation.cfm?id=1592442
+
+- Graphical Representation of Programs in a Demonstrational Visual Shell
+http://dl.acm.org/citation.cfm?doid=264645.264659
+
+- Batchboard: Unix interactions for Everyone
+https://www.semanticscholar.org/paper/Batchboard-Unix-Interaction-for-Everyone-Smith-Raymond/91c41401b2a708411ea2c048ba9102d6d20995a6
+
+- Unix tools as visual programming components in a GUI‐builder environment
+https://www.academia.edu/2721434/Unix_tools_as_visual_programming_components_in_a_GUI_builder_environment
+
+# What the project could tell an HCI person:
+- How command line functionality can be made accessible, by extending it in a GUI with rich visual feedback. This would extend to other technical software in general
+- How direct manipulation can help help novice users to become experts, in complex interactions
+- Interactive ways of educating students or developers. How to lower the barrier for usage by new users of technology
+
+
+
+
+
+
+
+
+
